@@ -27,7 +27,7 @@ Página principal.
         <h1>Cadastro de Contatos</h1>
         <p><a href="../Controller/controle.php?op=nv">Novo </a>
             |  <a href="../Controller/controle.php?op=lst">Listar </a>            
-            |  <a href="../Controller/controle.php?op=lst">Listar </a></p>
+            |  <a href="../Controller/controle.php?op=lst">Mostra </a></p>
 </p>
     </body>
 </html>
