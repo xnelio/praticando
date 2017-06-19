@@ -1,0 +1,12 @@
+{  
+   "jogadores":[  
+      {  
+         "commonName":"Cristiano Ronaldo",
+         "firstName":"C. Ronaldo",
+         "club_img":"https://github.com/xnelio/praticando/blob/master/teste_img.jpg",
+         "name":"Real Madrid",
+         "playStyle":"Basic",
+         "position":"Left Wing"
+      }
+   ]
+}
