@@ -1,12 +1,105 @@
-{  
-   "jogadores":[  
-      {  
-         "commonName":"Cristiano Ronaldo",
-         "firstName":"C. Ronaldo",
-         "club_img":"https://github.com/xnelio/praticando/blob/master/teste_img.jpg?raw=true",
-         "name":"Real Madrid",
-         "playStyle":"Basic",
-         "position":"Left Wing"
-      }
-   ]
-}
+[
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/20801.png",
+      "club_name_name":"Real Madrid",
+      "playStyle":"Basic",
+      "name":"Cristiano Ronaldo",
+      "position":"Left Wing"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/158023.png",
+      "club_name_name":"Barcelona",
+      "playStyle":"Basic",
+      "name":"Messi",
+      "position":"Right Wing"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/167495.png",
+      "club_name":"Bayern",
+      "playStyle":"Basic",
+      "position":"Goalkeeper"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/176580.png",
+      "club_name_name":"Barcelona",
+      "playStyle":"Basic",
+      "name":"Suarez",
+      "position":"Striker"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/20801.png",
+      "club_name":"Real Madrid",
+      "playStyle":"Basic",
+      "name":"Cristiano Ronaldo",
+      "position":"Left Wing"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/190871.png",
+      "club_name_name":"Barcelona",
+      "playStyle":"Basic",
+      "name":"Neymar",
+      "position":"Left Wing"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/183277.png",
+      "club_name":"Chelsea",
+      "playStyle":"Basic",
+      "name":"Hazard",
+      "position":"Left Wing"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/188545.png",
+      "club_name":"FC Bayern Municnchen",
+      "playStyle":"Basic",
+      "name":"Lewandowski",
+      "position":"Striker"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/167495.png",
+      "club_name":"FC Bayern M\u00fcnchen",
+      "playStyle":"Basic",
+      "name":"Neuer",
+      "position":"Goalkeeper"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/41236.png",
+      "club_name":"Manchester United",
+      "playStyle":"Basic",
+      "name":"Ibrahimovi\u0107",
+      "position":"Striker"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/177003.png",
+      "club_name":"Real Madrid",
+      "playStyle":"Basic",
+      "name":"Modri\u0107",
+      "position":"Centre Midfielder"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/155862.png",
+      "club_name":"Real Madrid",
+      "playStyle":"Basic",
+      "name":"Sergio Ramos",
+      "position":"Centre Back"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/138956.png",
+      "club_name":"Juventus",
+      "playStyle":"Basic",
+      "name":"Chiellini",
+      "position":"Centre Back"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/182493.png",
+      "club_name":"Atl\u00e9tico Madrid",
+      "name":"God\u00edn",
+      "position":"Centre Back"
+   },
+   {
+      "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/197781.png",
+      "club_name":"Real Madrid",
+      "playStyle":"Basic",
+      "name":"Isco",
+      "position":"Centre Midfielder"
+   }
+]
