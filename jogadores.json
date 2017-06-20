@@ -56,7 +56,7 @@
    },
    {
       "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/167495.png",
-      "club_name":"FC Bayern M\u00fcnchen",
+      "club_name":"FC Bayern Municnchen",
       "playStyle":"Basic",
       "name":"Neuer",
       "position":"Goalkeeper"
@@ -65,14 +65,14 @@
       "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/41236.png",
       "club_name":"Manchester United",
       "playStyle":"Basic",
-      "name":"Ibrahimovi\u0107",
+      "name":"Ibrahimovic",
       "position":"Striker"
    },
    {
       "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/177003.png",
       "club_name":"Real Madrid",
       "playStyle":"Basic",
-      "name":"Modri\u0107",
+      "name":"Modrid",
       "position":"Centre Midfielder"
    },
    {
@@ -91,8 +91,8 @@
    },
    {
       "headshotImgUrl":"http://gradweb.facom.ufms.br/~201419020609/imagens/182493.png",
-      "club_name":"Atl\u00e9tico Madrid",
-      "name":"God\u00edn",
+      "club_name":"Atletico Madrid",
+      "name":"Godedn",
       "position":"Centre Back"
    },
    {
